@@ -3,13 +3,15 @@ OCR (Optical Character Recognition) technique is used to identify words in a pic
 
 ## Steps to run the program:
 <br>
+1. Clone the repository using:
+> git clone https://github.com/Lashuk1729/OCR.git
 
-1. Please go to [pdftoimage.com](https://pdftoimage.com/) to convert the pdf file to jpg image.(Sorry for the inconvenience).
+2. Please go to [pdftoimage.com](https://pdftoimage.com/) to convert the pdf file to jpg image.(Sorry for the inconvenience).
 
-2. We need to place the pdf and the correponding images in ___/data/demo___ folder.
+3. We need to place the pdf and the correponding images in ___/data/demo___ folder.
 
-3. Now, run the demo.py file.
+4. Now, run the demo.py file.
 
-4. Result can be seen on the command line(for windows users) or terminal(for Ubuntu users).
+5. Result can be seen on the command line(for windows users) or terminal(for Ubuntu users).
 
-  * Note: Please remove the files previously being compiled in the ___/data/demo___ and ___/data/result__ folder.
+    #####* Note: Please remove the files previously being compiled in the ___/data/demo___ and ___/data/result__ folder.
