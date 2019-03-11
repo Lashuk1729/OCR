@@ -3,7 +3,8 @@ OCR (Optical Character Recognition) technique is used to identify words in a pic
 
 ## Steps to run the program:
 <br>
-1. Please go to [pdftoimage.com](https://pdftoimage.com/) to convert the pdf file to jpg image.(Sorry for the inconvenience)
+
+1. Please go to [pdftoimage.com](https://pdftoimage.com/) to convert the pdf file to jpg image.(Sorry for the inconvenience).
 
 2. We need to place the pdf and the correponding images in ___/data/demo___ folder.
 
