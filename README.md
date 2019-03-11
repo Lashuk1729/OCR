@@ -4,8 +4,9 @@ OCR (Optical Character Recognition) technique is used to identify words in a pic
 ## Steps to run the program:
 <br>
     1. Clone the repository using:
-    > git clone https://github.com/Lashuk1729/OCR.git
-
+    
+        > git clone https://github.com/Lashuk1729/OCR.git
+        
    2. Please go to [pdftoimage.com](https://pdftoimage.com/) to convert the pdf file to jpg image.(Sorry for the inconvenience).
 
    3. We need to place the pdf and the correponding images in ___/data/demo___ folder.
