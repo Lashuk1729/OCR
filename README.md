@@ -9,6 +9,6 @@ OCR (Optical Character Recognition) technique is used to identify words in a pic
 
 3. Now, run the demo.py file.
 
-4. Check the result in ___/data/result__ folder.
+4. Result can be seen on the command line(for windows users) or terminal(for Ubuntu users).
 
   * Note: Please remove the files previously being compiled in the ___/data/demo___ and ___/data/result__ folder.
